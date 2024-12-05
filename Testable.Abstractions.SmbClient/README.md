@@ -1,0 +1,1 @@
+﻿Testable abstraction for SMBLibrary
